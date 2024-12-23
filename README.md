@@ -1,4 +1,4 @@
-<p><img align="center" height="400" weidth="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Xpo3_E-2-bMw20g2tQ5xwyXv3jFthP9XpA&s" alt="Android Developer" /></p>
+<p><img align="center" height="400" weidth="500" src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAd/computer-nerds.gif" /></p>
 
 # 🙋‍♂️ About me
 <p>I am Shalini Kumari 🌼, a passionate Android developer 👩🏼‍💻 with a knack for creating efficient and innovative solutions. My expertise lies in building robust applications that solve real-world problems. 💻💻</p>
