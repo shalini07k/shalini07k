@@ -1,4 +1,4 @@
-<p><img align="center" height="200" weidth="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini07k&show_icons=true&locale=en&layout=compact" alt="shalini07k" /></p>
+<p><img align="center" height="200" weidth="500" src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAd/computer-nerds.gif"/></p>
 
 # 🙋‍♂️ About me
 <p>I am Shalini Kumari 🌼, a passionate Android developer 👩🏼‍💻 with a knack for creating efficient and innovative solutions. My expertise lies in building robust applications that solve real-world problems. 💻💻</p>
@@ -20,7 +20,7 @@
 <br>
 
 # About My Profile 📈💻⚙️
-<p><img align="center" height="200" weidth="500" src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAd/computer-nerds.gif" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini07k&show_icons=true&locale=en&layout=compact" alt="shalini07k" /></p>
 <br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalini07k&" alt="shalini07k" /></p>
 <br><br>
